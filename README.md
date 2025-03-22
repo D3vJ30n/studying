@@ -85,8 +85,8 @@
 - 실무 vs 코테 차이 정리
 
 ## 🔶 프로젝트 실전 적용기
-- [Stoblyx]([링크](https://github.com/D3vJ30n/stoblyx-portfolio))
-- [공공와이파이]([링크](https://github.com/D3vJ30n/be-dev/tree/main/zerobase30jdm))
+- [Stoblyx](https://github.com/D3vJ30n/stoblyx-portfolio)
+- [공공와이파이](https://github.com/D3vJ30n/be-dev/tree/main/zerobase30jdm)
 
 ---
 
