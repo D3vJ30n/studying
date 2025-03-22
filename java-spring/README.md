@@ -33,7 +33,7 @@ Controller → Service → Repository → Database
 - **DI(Dependency Injection)**: 객체 간 의존성을 직접 생성하지 않고 외부에서 주입 받는 방식
 - **IoC(Inversion of Control)**: 객체 생성과 관리를 개발자가 아닌 Spring이 제어
 
-예시:
+예시
 ```java
 @Service
 public class BookService {
